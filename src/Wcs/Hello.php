@@ -6,7 +6,7 @@ class Hello {
 
     public function talk()
     {
-        return 'Hello World ';
+        return 'Hello World !';
     }
 
 
